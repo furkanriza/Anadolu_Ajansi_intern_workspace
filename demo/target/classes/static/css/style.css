@@ -1,0 +1,25 @@
+.form-container {
+    top: 30%;
+    left: 30%;
+    width: 30em;
+    height: 18em;
+    margin-top: 5em;
+    margin-left: 30em;
+
+}
+
+.form-container label {
+    float: left;
+    width: 120px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.form-container input {
+    margin-bottom: 20px;
+    width: 200px;
+}
+
+.form-container input[type="submit"] {
+    margin-top: 20px;
+}
